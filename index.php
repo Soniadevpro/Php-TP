@@ -22,7 +22,7 @@
                             <h5 class="card-title">Titre 1</h5>
                             <small class="text-muted">Auteur 1</small>
                             <p class="card-text">Contenu 1</p>
-                            <a href="" class="btn btn-primary">Lire la suite</a>
+                            <a href="article.php?slug=titre-<?php echo $numero ?>" class="btn btn-primary">Lire la suite</a>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                             <h5 class="card-title">Titre 2</h5>
                             <small class="text-muted">Auteur 2</small>
                             <p class="card-text">Contenu 2</p>
-                            <a href="" class="btn btn-primary">Lire la suite</a>
+                            <a href="article.php?slug=titre-<?php echo $numero ?>" class="btn btn-primary">Lire la suite</a>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                             <h5 class="card-title">Titre 3</h5>
                             <small class="text-muted">Auteur 3</small>
                             <p class="card-text">Contenu 3</p>
-                            <a href="" class="btn btn-primary">Lire la suite</a>
+                            <a href="article.php?slug=titre-<?php echo $numero ?>" class="btn btn-primary">Lire la suite</a>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                             <h5 class="card-title">Titre 4</h5>
                             <small class="text-muted">Auteur 4</small>
                             <p class="card-text">Contenu 4</p>
-                            <a href="" class="btn btn-primary">Lire la suite</a>
+                            <a href="article.php?slug=titre-<?php echo $numero ?>" class="btn btn-primary">Lire la suite</a>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                             <h5 class="card-title">Titre 5</h5>
                             <small class="text-muted">Auteur 5</small>
                             <p class="card-text">Contenu 5</p>
-                            <a href="" class="btn btn-primary">Lire la suite</a>
+                            <a href="article.php?slug=titre-<?php echo $numero ?>" class="btn btn-primary">Lire la suite</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                             <h5 class="card-title">Titre 6</h5>
                             <small class="text-muted">Auteur 6</small>
                             <p class="card-text">Contenu 6</p>
-                            <a href="" class="btn btn-primary">Lire la suite</a>
+                            <a href="article.php?slug=titre-<?php echo $numero ?>" class="btn btn-primary">Lire la suite</a>
                         </div>
                     </div>
                 </div>
